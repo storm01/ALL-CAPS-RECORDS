@@ -25,5 +25,5 @@ body{background: #c50202; font-family: "chunk-1","chunk-2"; color: #c50202;}
 .fuckyou{width: 666px; margin: 100px auto;}
 .fuckyou h1{text-indent: -999em;height: 310px; background: url(../images/ALLCAPSLOGO.jpg) no-repeat 0 0; }
 
-.fuckyou .durr{background: url(../images/slantybox.jpg) no-repeat 0 0; width: 450px; height: 163px; padding: 30px 50px 0 50px; margin-left: 120px;}
-.fuckyou .durr p{font-size: 24px; padding-bottom: 15px;font-weight: bold;}
+.fuckyou .durr{background: url(../images/slantybox.jpg) no-repeat 0 0; width: 470px; height: 163px; padding: 30px 50px 0 40px; margin-left: 120px; line-height: 28px;}
+.fuckyou .durr p{font-size: 22px; padding-bottom: 15px;font-weight: bold;}
