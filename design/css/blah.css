@@ -20,10 +20,26 @@ cite{font-style: normal;}
 .js_really_hidden{display: none !important;}
 
 
-body{background: #c50202; font-family: "chunk-1","chunk-2"; color: #c50202;}
+body{background: #c50202; font-family: "chunk-1","chunk-2"; color: #c50202; text-transform: uppercase;}
 
-.fuckyou{width: 666px; margin: 100px auto;}
-.fuckyou h1{text-indent: -999em;height: 310px; background: url(../images/ALLCAPSLOGO.jpg) no-repeat 0 0; }
+.fuckyou{width: 666px; margin: 50px auto 0;}
+.fuckyou h1{text-indent: -999em;height: 280px; background: url(../images/ALLCAPSLOGO.jpg) no-repeat 0 0; }
 
 .fuckyou .durr{background: url(../images/slantybox.jpg) no-repeat 0 0; width: 470px; height: 163px; padding: 30px 50px 0 40px; margin-left: 120px; line-height: 28px;}
-.fuckyou .durr p{font-size: 22px; padding-bottom: 15px;font-weight: bold;}
+.fuckyou .durr p{font-size: 18px; padding-bottom: 15px;font-weight: bold;}
+
+
+.bitches{margin: 0 auto; width: 600px; color: #000;}
+
+.bitches .bitch{position: relative; padding: 20px 0 0 260px; height: 270px;}
+.bitches .bitch img{position: absolute; top:0; left: 0;}
+
+.bitches h2{font-size: 36px; line-height: 36px;  padding: 50px 0; text-transform: uppercase;}
+.bitches .bitch h3 {font-size: 54px; text-transform: uppercase; padding: 10px 0;}
+.bitches .bitch .problems a{display: block; background: #fff; color: #c50202; padding: 6px 10px; text-decoration: none; margin-bottom: 5px; float: left; clear: both;}
+.bitches .bitch .problems a:hover{color: #000;}
+
+
+.bitches .bearbot{text-align: right; padding: 20px 260px 0 0;}
+.bitches .bearbot img{left: auto; right: 0;}
+.bitches .bearbot .problems a{float: right;}
