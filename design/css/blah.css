@@ -46,3 +46,13 @@ body{background: #c50202; font-family: "chunk-1","chunk-2"; color: #c50202; text
 
 .faceblerk{background: #000; position: relative; padding: 5px 0 0; text-align: center;}
 .faceblerk iframe{ margin: 0 auto;}
+
+
+
+.home_top_radness{background: #000 url(../images/bankaivsabortifacient/8-bit-backer.jpg) repeat-x top; height: 766px; margin: 0; padding: 0; position: relative; border-bottom: 15px solid #ff0;}
+.home_top_radness .grarr{background: url(../images/bankaivsabortifacient/bankai_vs_abortifacient.jpg) no-repeat top; height: 766px;}
+
+.home_top_radness h2{display: none;}
+
+.home_top_radness .allcaps{display: block; position: absolute; top:300px; left: 60%; width: 397px; height: 171px; background: url(../images/bankaivsabortifacient/8-bit-coming-soon.png) no-repeat; text-indent: -999em;}
+.home_top_radness .allcaps:hover{opacity: 0.9;}
