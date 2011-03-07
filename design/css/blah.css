@@ -20,31 +20,32 @@ cite{font-style: normal;}
 .js_really_hidden{display: none !important;}
 
 
-body{background: #c50202; font-family: "chunk-1","chunk-2"; color: #c50202; text-transform: uppercase;}
+body{background: #f0f url(../images/horrible_pink_background.jpg); font-family: "chunk-1","chunk-2"; color: #fff; text-transform: uppercase;}
 
 
-.fuckyou{ padding: 0; background: url(../images/bankaivsabortifacient/yellowgrad.jpg) repeat-x top}
-.fuckyou .penises{padding: 50px 0 30px; width: 666px; margin: 0 auto;}
+.fuckyou{ padding: 0; background: url(../images/bankaivsabortifacient/yellowgrad.png) repeat-x top}
+.fuckyou .penises{padding: 100px 0 30px; width: 666px; margin: 0 auto;}
 .fuckyou h1{text-indent: -999em;height: 280px; background: url(../images/ALLCAPSLOGO.png) no-repeat 0 0;}
 
-.fuckyou .durr{background: url(../images/slantybox.jpg) no-repeat 0 0; width: 500px; height: 163px; padding: 30px 50px 0 30px; margin-left: 120px; line-height: 28px;}
-.fuckyou .durr p{font-size: 18px; padding-bottom: 10px;font-weight: bold;}
+.fuckyou .durr{background: #200; width: 500px; padding: 40px 40px 30px; margin-left: 120px; line-height: 36px;}
+.fuckyou .durr p{font-size: 36px; padding-bottom: 10px;font-weight: bold;}
 
 
-.bitches{margin: 0 auto; width: 600px; color: #ff0;}
+.bitches{margin: 0 auto; width: 600px; color: #fff;}
 
 .bitches .bitch{position: relative; padding: 20px 0 0 260px; height: 270px;}
 .bitches .bitch img{position: absolute; top:0; left: 0;}
 
-.bitches h2{font-size: 36px; line-height: 36px;  padding: 50px 0; text-transform: uppercase;}
-.bitches .bitch h3 {font-size: 54px; text-transform: uppercase; padding: 10px 0;}
-.bitches .bitch .problems a{display: block; background: #fff; color: #c50202; padding: 6px 10px; text-decoration: none; margin-bottom: 5px; float: left; clear: both;}
-.bitches .bitch .problems a:hover{color: #000;}
+.bitches h2{font-size: 36px; line-height: 36px;  padding: 50px 0; text-transform: uppercase; text-shadow: 0px 2px 0px #c00}
+.bitches .bitch h3 {font-size: 54px; text-transform: uppercase; padding: 10px 0; text-shadow: 0px 2px 0px #c00}
+.bitches .bitch .problems a{display: block; background: #fff; color: #000; padding: 6px 10px; text-decoration: none; margin-bottom: 5px; float: left; clear: both; box-shadow: 0px 2px 0px #c00; -moz-box-shadow: 0px 2px 0px #c00}
+.bitches .bitch .problems a:hover{color: #f0f; margin-left: 10px;}
 
 
 .bitches .bearbot{text-align: right; padding: 20px 260px 0 0;}
 .bitches .bearbot img{left: auto; right: 0;}
 .bitches .bearbot .problems a{float: right;}
+.bitches .bearbot .problems a:hover{margin-right: 10px; margin-left: auto;}
 
 .faceblerk{background: #000; position: relative; padding: 5px 0 0; text-align: center;}
 .faceblerk iframe{ margin: 0 auto;}
