@@ -1,0 +1,72 @@
+/* SHOP AWAY MINIONS
+-------------------------------------------------------- */
+
+.consume .filter{max-width: 930px; margin: 0 auto;}
+
+
+.consume .filter .product{float: left; width: 260px; margin: 0 40px 40px 0; height: 450px; display: block; font-size: 32px;}
+.consume .filter .product .image {padding: 0 0 10px;}
+.consume .filter .product .image img{border: 10px solid #67001d; max-height: 220px;}
+.consume .filter .product .title{display: block; padding: 0 20px;}
+
+.consume .filter .product:hover .image img{border-color: #000;}
+
+
+
+.consume .detail{width: 900px; position: relative; margin: 0 auto;}
+.consume .detail .image {width: 220px; float: left;}
+.consume .detail .image img{border: 10px solid #67001d; max-height: 220px; display: block; margin-bottom: 20px;}
+.consume .detail .image a:hover img{border-color: #000;}
+
+
+.consume .deets{width: 620px; float: right; padding-top: 20px;}
+.consume .deets h2{color: #67001d; font-size: 32px; line-height: 36px; padding: 0 0 10px 20px;}
+
+.consume .deets .giveplz{background: #cd00b5;position: relative; padding: 80px 0 0; width: 540px; margin-left: 20px;}
+.consume .deets .giveplz .nao{border: 2px solid #000; position: absolute; top:20px; left: 20px; width: 130px; height: 40px; background: #fff;}
+.consume .deets .giveplz .nao label{position: absolute; top:8px; left: 10px; color: #ccc; font-weight: bold; font-size: 18px;}
+.consume .deets .giveplz .nao .text{border: 3px solid #fff; background: #fff; color: #555; width: 50px; font-size: 24px; position: absolute; top:2px; right: 0; text-align: center; line-height: 24px; font-weight: bold;}
+.consume .deets .giveplz .nao .text:focus{color: #000;}
+
+.consume .deets .giveplz .submit{border: none;font-size: 32px; background: transparent; color: #67001d; position: absolute; top:20px; right: 10px; cursor: pointer}
+.consume .deets .giveplz .submit:hover{color: #000}
+
+.consume .deets .giveplz .stock{text-align: right; padding: 0 20px 20px; display: block;}
+.consume .deets .giveplz .stock .wat{display: none;}
+.consume .deets .giveplz .stock:hover .wat{display: inline;}
+
+.consume .deets .giveplz .stock_clarify{padding: 20px 0 0; color: #fff; text-transform: none; font-size:13px; line-height: 18px; display: none;}
+
+.consume .deets .infoz{background: #cd00b5; margin: 20px 0; padding: 30px 30px 12px; text-transform: none; width: 450px}
+.consume .deets .infoz p{font-size: 16px; line-height: 24px; padding-bottom: 18px; text-shadow: 0px 2px 0px #900}
+.consume .deets .infoz p.yell{color: #ff0; font-weight: bold;}
+
+
+
+.consume .static{width: 930px; margin: 0 auto; padding: 0 0 100px; position: relative; color: #67001d;}
+
+.consume .static h2{font-size: 52px;padding: 0 0 10px;}
+.consume .static p{text-transform: none; font-size: 24px; font-weight: bold; line-height: 36px; padding-bottom: 12px;}
+.consume .static p a{color: #fff; font-weight: bold;}
+.consume .static p a:hover{color: #000; font-weight: bold;}
+
+.consume .static hr{margin: 50px 0; height: 0px; border:none; overflow: hidden; border-top: 5px solid #67001d; }
+
+.consume .static .ship_map{width:861px; height: 413px; position: relative; margin: 40px auto; background: url(../images/shop/ship_to_shore/orsrtalia.png) no-repeat 170px 100%;}
+.consume .static .ship_map a{font-size: 36px; opacity: 0.5}
+.consume .static .ship_map a .price{}
+.consume .static .ship_map a .clarify{display: block; font-size: 24px;}
+
+.consume .static .ship_map a.world{width: 430px; height: 413px; position: absolute; top:0; left: 0; background: url(../images/shop/ship_to_shore/out_arrow.png) no-repeat 78px 81px;}
+.consume .static .ship_map a.oz{width: 453px; height: 212px; position: absolute; top:174px; right: 0; background: url(../images/shop/ship_to_shore/in_arrow.png) no-repeat  0 0;}
+.consume .static .ship_map a.oz .yo{display: block; position: absolute; top:64px;	 left: 156px; width: 320px;}
+
+.consume .static .ship_map a:hover{opacity: 1;}
+
+
+
+
+.consume .static .cols .l{float: left; width: 420px;}
+.consume .static .cols .r{float: right; width: 420px;}
+
+.consume .static .greaterthan{font-size: 200px; text-align: center; line-height: 200px;}

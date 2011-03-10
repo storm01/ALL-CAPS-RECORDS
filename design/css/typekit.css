@@ -1,0 +1,34 @@
+/* typekit, ENABLE!
+-------------------------------------------------------- */
+
+html.wf-active .fuckyou .we_at_the_store,
+html.wf-active .fuckyou .m1 a,
+html.wf-active .fuckyou .m2 a.info,
+html.wf-active .consume .deets h2,
+html.wf-active .consume .deets .giveplz .nao label,
+html.wf-active .consume .deets .giveplz .nao input,
+html.wf-active .consume .deets .giveplz .stock,
+html.wf-active .consume .static h2,
+html.wf-active .consume .static .ship_map a,
+html.wf-active .consume .filter .product{font-family: "blackout-midnight-1","blackout-midnight-2";}
+
+html.wf-active .fuckyou .m1 a.allcaps,
+html.wf-active .consume .filter .product .price,
+html.wf-active .consume .deets h2 .price,
+html.wf-active .consume .deets .giveplz .submit,
+html.wf-active .consume .deets .giveplz .stock .n,
+html.wf-active .consume .static .ship_map a .price,
+html.wf-active .fuckyou .m2 a{font-family: "blackout-2am-1","blackout-2am-2";}
+
+
+html.wf-active .fuckyou .m1 a{font-size: 22px;}
+
+
+html.wf-active .fuckyou .m2 a{font-size: 42px;}
+html.wf-active .fuckyou .m2 a.info{font-size: 24px;}
+html.wf-active .consume .deets h2{font-size: 50px; line-height: 50px;}
+html.wf-active .consume .deets .giveplz .nao label{font-size: 26px;}
+html.wf-active .consume .deets .giveplz .nao input{font-size: 28px;}
+html.wf-active .consume .deets .giveplz .submit{font-size: 55px;}
+
+html.wf-active .consume .deets .giveplz .stock{font-size: 18px;}
