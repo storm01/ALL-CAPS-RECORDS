@@ -1,35 +1,57 @@
 /* aboot de d00ds
 -------------------------------------------------------- */
-.fuckyou .durr{background: #200; width: 500px; padding: 40px 40px 30px; margin-left: 120px; line-height: 36px; text-align: left;}
-.fuckyou .durr p{font-size: 36px; padding-bottom: 10px;font-weight: bold;}
+.fuckyou .durr{background: #ff0; width: 390px; padding: 40px 40px 10px; line-height: 36px; text-align: left; position: absolute; top:0; right: 0; color: #000;
+-moz-transform:rotate(1deg);
+-webkit-transform:rotate(1deg);
+-ms-transform:rotate(1deg);
+filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+.fuckyou .durr p{font-size: 32px; padding-bottom: 20px;font-weight: bold;}
+.fuckyou .durr p.fuckoff{color: #ff009e;}
 
 /* this be our peeps 
 -------------------------------------------------------- */
 
-.bitches{margin: 0 auto; width: 600px; color: #fff; display: block;}
+.bitches{margin: 0 auto; width: 650px; color: #fff; display: block;}
 
-.bitches .bitch{position: relative; padding: 20px 0 0 260px; height: 270px;}
+.bitches .bitch{position: relative; padding: 20px 0 30px 260px; height: 270px;}
 .bitches .bitch img{position: absolute; top:0; left: 0;}
 
 .bitches h2{font-size: 36px; line-height: 36px;  padding: 50px 0; text-transform: uppercase; text-shadow: 0px 2px 0px #c00}
+.bitches h2 a{color: #fff; text-decoration: underline;}
+.bitches h2 a:hover{text-decoration: none;}
+
 .bitches .bitch h3 {font-size: 54px; text-transform: uppercase; padding: 10px 0; text-shadow: 0px 2px 0px #c00}
 .bitches .bitch .problems a{display: block; background: #fff; color: #000; padding: 6px 10px; text-decoration: none; margin-bottom: 5px; float: left; clear: both; box-shadow: 0px 2px 0px #c00; -moz-box-shadow: 0px 2px 0px #c00}
 .bitches .bitch .problems a:hover{color: #f0f; margin-left: 5px;}
 
 
-.bitches .bearbot{text-align: right; padding: 20px 260px 0 0;}
-.bitches .bearbot img{left: auto; right: 0;}
-.bitches .bearbot .problems a{float: right;}
-.bitches .bearbot .problems a:hover{margin-right: 5px; margin-left: auto;}
+.bitches .reverse{text-align: right; padding: 20px 260px 0 0;}
+.bitches .reverse img{left: auto; right: 0;}
+.bitches .reverse .problems a{float: right;}
+.bitches .reverse .problems a:hover{margin-right: 5px; margin-left: auto;}
 
 
 
+.releases{width: 900px;}
+.releases .release{background: url('data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9JREFUeNpiYGBg8AUIMAAAUgBOUWVeTwAAAABJRU5ErkJggg=='); padding: 50px; border: 1px solid #000;box-shadow: 0 0 2px #000000}
+.releases .release h2{padding: 0;}
+
+.releases .release embed{border: 1px solid #000; margin: 10px 0}
+.releases .release a{color: #fff; text-decoration: underline;}
+.releases .release a:hover{text-decoration: none;}
+
+.releases .floh{padding: 38px; padding-right: 30px; padding-left: 190px; background: #000; position: relative; margin: 20px 0 0; font-size: 30px}
+.releases .floh img{width: 150px; position: absolute; top:10px; left: 10px;}
 
 
 /* ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT */
 .home_top_radness{background: #000 url(../images/bankaivsabortifacient/8-bit-backer.jpg) repeat-x bottom; height: 696px; margin: 0; padding: 0; position: relative; border-bottom: 15px solid #ff0; display: block;}
-.home_top_radness .grarr{background: url(../images/bankaivsabortifacient/bankai_vs_abortifacient.jpg) no-repeat bottom; height: 696px;}
+.home_top_radness .grarr{background: url(../images/bankaivsabortifacient/bankai_vs_abortifacient_px.jpg) no-repeat bottom; height: 696px;}
 
 .home_top_radness h2{display: none;}
 
 .home_top_radness .allcaps{display: block; position: absolute; top:300px; left: 60%; width: 397px; height: 171px; background: url(../images/bankaivsabortifacient/8-bit-coming-soon.png) no-repeat; text-indent: -999em;}
+
+
+.home_top_radness .youtube{position: absolute; top:160px; left:50%; margin-left: -220px; border: 10px solid #000; box-shadow: 0 0 50px #000; background: #000}
