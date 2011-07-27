@@ -1,0 +1,21 @@
+.releases{width: 900px; margin: 0 auto;}
+.releases .release{position: relative;}
+.releases .release .cover{position: absolute; top:60px; left: 0;}
+.releases .release .cover img{
+-moz-transform:rotate(1deg);
+-webkit-transform:rotate(1deg);
+-ms-transform:rotate(1deg);
+filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+border: 10px solid #000; background: #000;
+}
+
+.releases .release .stuff{padding-left: 310px;}
+.releases .release h2{padding: 0 0 10px; font-size: 36px;}
+
+.releases .release embed{border: 1px solid #000; margin: 10px 0}
+.releases .release p{font-size: 18px; padding-bottom: 10px;}
+.releases .release a{color: #fff; text-decoration: underline;}
+.releases .release a:hover{text-decoration: none;}
+
+.releases .floh{padding: 22px; padding-right: 30px; padding-left: 190px; background: #000; position: relative; margin: 20px 0 0; font-size: 25px; line-height: 30px;}
+.releases .floh img{width: 150px; position: absolute; top:10px; left: 10px;}

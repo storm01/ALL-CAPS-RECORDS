@@ -25,7 +25,7 @@ cite{font-style: normal;}
 body{background: #f0f url(../images/horrid_pink.jpg); font-family: Helvetica, Arial, sans-serif; color: #fff; text-transform: uppercase;}
 
 
-.faceblerk{background: #000; position: relative; padding: 5px 0 0; text-align: center;}
+.faceblerk{background: #222; position: relative; padding: 5px 0 0; text-align: center;1px solid #fff}
 .faceblerk iframe{ margin: 0 auto;}
 
 .fuckyou{ padding: 0; background: url(../images/bankaivsabortifacient/yellowgrad.png) repeat-x top; text-align: center; border-top: 30px solid #ff0; position: relative;}

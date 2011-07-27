@@ -1,48 +1,22 @@
-<!--#include file="header.html" --> 
+<?php include_once('templates/header.php'); ?>
 
 	<div class="m1">
 		<a href="http://allcaps.fm" class="allcaps">ALL_CAPS_RECORDS:_</a>
-		<a class="active" href="releases">releases</a>
-		<a href="about">artists</a>
-		<a href="free">about</a>
+		<a class="" href="releases">releases</a>
+		<a class="active" href="artists">artists</a>
+		<a class="" href="about">about</a>
+		<a class="" target="_blank" href="http://allcapsrecords.bandcamp.com">buy shit</a>		
 	</div>
 
 	<div class="penises">
 		<h1>ALL CAPS RECORDS BITCHES</h1>
 		<div class="durr">
-			<p>Small, mobile and fiercely independent digital publishing for loud tunes.</p>
-			<p class="fuckoff">No punches pulled and few fucks given.
-				<a href="#moar">About / contact us &raquo;</a>
-			</p>
+			<p>A truly international producer roster. Melbourne, Sydney, Montreal, New York, London. </p>
+			<p class="fuckoff">hard hitting bass music, done right.</p>
 		</div>	
 	</div>
 
 <!--fuckyou--></div>
-
-
-<div class="releases bitches">
-
-	<div class="release">
-
-		<h2><strong>ALLCAPS001:</strong> Four Litres of Hope </h2>
-		
-		<div class="soundcloud">
-			<object height="81" width="100%"> <param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18636338"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F18636338" type="application/x-shockwave-flash" width="100%"></embed> </object>  <span><a href="http://soundcloud.com/bankaibash/four-litres-of-hope">Bankai vs. Abortifacient - Four Litres of Hope</a> by <a href="http://soundcloud.com/bankaibash">Bankai</a></span> 
-		</div>
-		
-		<div class="floh">
-			<a target="_blank" href="http://fourlitresofhope.com"><img src="http://fourlitresofhope.com/awesome/freshprince.gif"></a>
-			Watch the animated gif experience at <a target="_blank" href="http://fourlitresofhope.com">fourlitresofhope.com</a>
-		</div>
-		
-		<div class="floh">
-			<a target="_blank" href="http://fourlitresofhope.com"><img src="http://fourlitresofhope.com/awesome/freshprince.gif"></a>
-			Watch the animated gif experience at <a target="_blank" href="http://fourlitresofhope.com">fourlitresofhope.com</a>
-		</div>		
-	
-	</div>
-
-</div>
 
 <div class="bitches">
 
@@ -143,13 +117,7 @@
 			<a href="http://www.facebook.com/pages/Clawful/120220924728415">facebook</a>
 		</div>
 	</div>
+</div><!--bitches-->
 
 
-	
-	
-
-</div>
-
-
-
-<!--#include file="footer.html" --> 
+<?php include_once('templates/footer.php'); ?>

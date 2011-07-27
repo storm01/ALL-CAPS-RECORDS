@@ -34,16 +34,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 
 
 
-.releases{width: 900px;}
-.releases .release{background: url('data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9JREFUeNpiYGBg8AUIMAAAUgBOUWVeTwAAAABJRU5ErkJggg=='); padding: 50px; border: 1px solid #000;box-shadow: 0 0 2px #000000}
-.releases .release h2{padding: 0;}
 
-.releases .release embed{border: 1px solid #000; margin: 10px 0}
-.releases .release a{color: #fff; text-decoration: underline;}
-.releases .release a:hover{text-decoration: none;}
-
-.releases .floh{padding: 38px; padding-right: 30px; padding-left: 190px; background: #000; position: relative; margin: 20px 0 0; font-size: 30px}
-.releases .floh img{width: 150px; position: absolute; top:10px; left: 10px;}
 
 
 /* ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT ABORT */
@@ -64,3 +55,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 .moar p{color: #fff; padding-bottom: 12px; font-size: 13px; line-height: 18px;}
 .moar p a{background: #fff; padding: 0 4px}
 .moar p a:hover{background-color: #ff0;}
+
+.bitches .boring{padding-bottom: 50px;}
+.bitches .boring p{text-transform: none; font-size: 18px; line-height: 24px; padding-bottom: 18px;}
+.bitches .boring p a{text-decoration: underline; color: #fff;}
