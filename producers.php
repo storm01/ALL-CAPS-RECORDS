@@ -26,7 +26,8 @@
 		<a href="#happs">What happens when you release with us</a>
 		<a href="#cc">Creative Commons</a>
 		<a href="#upfront">Money - paid up front</a>
-		<a href="#shares">Money - sharing profits</a>	
+		<a href="#shares">Money - sharing profits</a>
+		<a href="#talk">Get in touch</a>			
 	</div>
 
 	<div class="boring">
@@ -55,7 +56,7 @@
 
 	<div class="boring">
 	
-		<p>The 'release agreement' is a contract. It outlines this stuff, in legal talk:</p>
+		<p>The 'release agreement' is a contract. It's a bit of paper that essentially outlines the following:</p>
 	
 		<h4>Stuff we can do:</h4>
 		
