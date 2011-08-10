@@ -22,7 +22,7 @@ cite{font-style: normal;}
 .js_really_hidden{display: none !important;}
 
 
-body{background: #f0f url(../images/horrid_pink.jpg); font-family: Helvetica, Arial, sans-serif; color: #fff; text-transform: uppercase;}
+body{background: #f0f url(../images/horrid_pink.jpg); font-family: Helvetica, Arial, sans-serif; color: #fff; text-transform: uppercase; padding-bottom: 50px;}
 
 
 .faceblerk{background: #222; position: relative; padding: 5px 0 0; text-align: center;1px solid #fff}
