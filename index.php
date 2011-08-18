@@ -4,7 +4,7 @@
 		<a href="http://allcaps.fm" class="allcaps">ALL_CAPS_RECORDS:_</a>
 		<a class="active" href="releases">releases</a>
 		<a class="" href="artists">artists</a>
-		<a class="" href="about">about</a>
+		<a class="" href="about">about / contact</a>
 		<a class="" target="_blank" href="http://allcapsrecords.bandcamp.com">buy shit</a>
 	</div>
 
