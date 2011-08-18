@@ -21,7 +21,7 @@
 <div class="bitches bitches_with_menu">
 
 	<div class="menu">
-		<a href="#thebook">The book</a>
+		<a href="#thebook">The book</a>		
 		<a href="#producers">What Producers supply</a>			
 		<a href="#art">Art Direction + style</a>					
 		<a href="#distro">Distribution</a>					
@@ -33,6 +33,11 @@
 	<div class="boring boring_intro">
 		<p>A planned mp3 + physical 20-30 page book release with ALL CAPS artists.</p>
 		<p>This page has tentative info about how we plan to do it.</p>
+	</div>
+
+	<div class="boring">
+		<p>A very quick boring mockup of a page (click it to <a href="design/images/activitybook/dance_page.jpg" target="_blank">see fullsize</a>):</p>
+		<p><a href="design/images/activitybook/dance_page.jpg" target="_blank"><img src="design/images/activitybook/dance_page_small.jpg" alt="dance_page"></a></p>
 	</div>
 
 	<h2 id="thebook">The book:</h2>
@@ -89,6 +94,8 @@
 	<div class="boring">
 		<h4>Purchases and downloads will all happen online via Bandcamp:</h4>
 
+		<p>A few pages of the book, in PDF form + a few mp3s will be made available online for free. Otherwise, buying stuff will be like so:</p>
+		
 		<ol>
 			<li>A .zip download of the tracks on Bandcamp for $5 + email address.</li>
 			<li>If the buyer pays more than $50AUD for the download they also get the book mailed to them.</li>
