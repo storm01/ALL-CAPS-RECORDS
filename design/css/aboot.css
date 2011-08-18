@@ -88,6 +88,9 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 .bitches .boring hr{clear: both; margin: 10px 0 30px; height: 0px; background: #fff; border:none; border-top: 1px solid #ccc; }
 
 
+.bitches .boring_intro{background: #000;}
+.bitches .boring_intro p{color: #fff; font-size: 16px; line-height: 24px;}
+
 .bitches_with_menu{ padding-left: 250px; position: relative;}
 .bitches_with_menu .menu{position: absolute; left: 0; top:0; width: 220px;}
 .bitches_with_menu .menu a{background: #c412b2; color: #fff; padding: 5px; font-size: 15px; line-height: 18px; display: block;margin: 0 0 2px;}

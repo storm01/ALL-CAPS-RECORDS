@@ -27,6 +27,7 @@
 		<a href="#cc">Creative Commons</a>
 		<a href="#upfront">Money - paid up front</a>
 		<a href="#shares">Money - sharing profits</a>
+		<a href="#stores">Where we release to</a>		
 		<a href="#talk">Get in touch</a>			
 	</div>
 
@@ -152,6 +153,32 @@
 		<p><img src="design/images/producers/30-35-remix.jpg" alt="30-35-remix"></p>	
 	
 	</div>
+	
+	
+	<h2 id="stores">Places we release to:</h2>
+	
+	<div class="boring">
+	
+		<h4>Via our distribution contract:</h4>
+		
+		<ul>
+			<li><a href="http://beatport.com">beatport.com</a></li>
+			<li><a href="http://www.apple.com/au/itunes/">iTunes</a></li>
+			<li><a href="http://www.trackitdown.net/">Trackitdown</a></li>
+			<li><a href="http://www.juno.co.uk/">Juno</a></li>
+			<li><a href="http://www.djtunes.com/">DJ Tunes</a></li>
+			<li><a href="http://music.vodafone360.com">Vodafone Music</a></li>
+			<li><a href="http://dancemusichub.com/">DanceMusicHub</a></li>
+			<li>... and more when they become relevant.</li>
+		</ul>
+		
+		<h4>Bandcamp:</h4>
+		
+		<p>We may also opt to offer paid downloads at <a href="http://bandcamp.com/">bandcamp.com</a>.</p>	
+
+	</div>
+		
+	
 	
 	
 	<h2 id="talk">Get in touch</h2>
