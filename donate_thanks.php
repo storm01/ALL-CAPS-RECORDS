@@ -12,7 +12,7 @@
 	<div class="penises">
 		<h1>ALL CAPS RECORDS BITCHES</h1>
 		<div class="durr">
-			<p>SUPPORT ALL CAPS BY DONATING MAD CASH USING THE POWER OF THE INTERNET</p>
+			<p>SUPPORT ALL CAPS BY DONATING MAD CASH USING THE POWER OF THE INTERNET.</p>
 			<p class="fuckoff">show us your PAYPAL</p>
 		</div>	
 	</div>
@@ -22,10 +22,10 @@
 <div class="bitches donashun">
 
 	<div class="donate">
-		<h2>General ALL CAPS donations</h2>
-		<p>Keep the label solvent, support our batshit risky ideas.</p>
-		<p>No amount too small or too large</p>
-		<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="6XV5SH8V2XSFY"><input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal Ñ The safer, easier way to pay online."><img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1"></form>
+		<h2>Thanks for donating!</h2>
+		<p>We really, really, really appreciate it.</p>
+		<p>Our trained monkeys will ensure your donation goes towards something dramatically important and inspiring.</p>
+		<p>Alternatively, we'll spend it all on blow and hookers.</p>
 	</div>
 
 </div><!--bitches-->
