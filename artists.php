@@ -5,6 +5,7 @@
 		<a class="" href="releases">releases</a>
 		<a class="active" href="artists">artists</a>
 		<a class="" href="about">about / contact</a>
+		<a class="" href="support">support!</a>
 		<a class="" target="_blank" href="http://allcapsrecords.bandcamp.com">buy shit</a>		
 	</div>
 
