@@ -35,9 +35,9 @@
 .consume .deets .giveplz .stock .wat{display: none;}
 .consume .deets .giveplz .stock:hover .wat{display: inline;}
 
-.consume .deets .giveplz .stock_clarify{padding: 20px 0 0; color: #fff; text-transform: none; font-size:13px; line-height: 18px; display: none;}
+.consume .deets .giveplz .stock_clarify{padding: 20px 0 0; color: #fff; font-size:13px; line-height: 18px; display: none;}
 
-.consume .deets .infoz{background: #cd00b5; margin: 20px 0; padding: 30px 30px 12px; text-transform: none; width: 450px}
+.consume .deets .infoz{background: #cd00b5; margin: 20px 0; padding: 30px 30px 12px; width: 450px}
 .consume .deets .infoz p{font-size: 16px; line-height: 24px; padding-bottom: 18px; text-shadow: 0px 2px 0px #900}
 .consume .deets .infoz p.yell{color: #ff0; font-weight: bold;}
 
@@ -46,7 +46,7 @@
 .consume .static{width: 930px; margin: 0 auto; padding: 0 0 100px; position: relative; color: #67001d;}
 
 .consume .static h2{font-size: 52px;padding: 0 0 10px;}
-.consume .static p{text-transform: none; font-size: 24px; font-weight: bold; line-height: 36px; padding-bottom: 12px;}
+.consume .static p{font-size: 24px; font-weight: bold; line-height: 36px; padding-bottom: 12px;}
 .consume .static p a{color: #fff; font-weight: bold;}
 .consume .static p a:hover{color: #000; font-weight: bold;}
 

@@ -1,3 +1,7 @@
+/* YOU KNOW WHAT? BECAUSE FUCK YOU. YEAAAH */
+html{text-transform: uppercase !important;}
+/* --------------------------------------- */
+
 /* Thanks eric! \o/ */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-weight: normal; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline;}
 
@@ -22,7 +26,7 @@ cite{font-style: normal;}
 .js_really_hidden{display: none !important;}
 
 
-body{background: #000 url(../images/global/dark_pink.jpg); font-family: Helvetica, Arial, sans-serif; color: #fff; text-transform: uppercase; padding-bottom: 50px;}
+body{background: #000 url(../images/global/dark_pink.jpg); font-family: Helvetica, Arial, sans-serif; color: #fff; padding-bottom: 50px;}
 
 
 .faceblerk{background: #000; position: relative; padding: 5px 0 0; text-align: center; border-bottom: 1px solid #fff;}

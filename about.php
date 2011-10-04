@@ -26,8 +26,9 @@
 	<h2>About The label</h2>
 
 	<div class="boring">
-		<p>ALL CAPS Records is a small label from Melbourne, Australia, founded by Will aka. <a href="http://bankai.fm">Bankai</a>. We will be releasing tunes from producers across the world. Chiptunes, bass music, various *step and moar.</p>
-		<p>We have a truly international roster, from Montreal to NYC and London. We'll be releasing hard hitters and experimental, high energy bass music, tempo tightwads be damned.</p>
+		<p>ALL CAPS Records is from Melbourne, Australia. It's by Will, aka. <a href="http://bankai.fm">Bankai</a>. We release many kinds of tunes.</p>
+		<p>International roster. Montreal, NYC, London, Sydney. Hard hitters, experimental, high energy bass music.</p>
+		<p>Fuck yeah.</p>
 
 		<hr>
 		<h4>Get in touch</h4>

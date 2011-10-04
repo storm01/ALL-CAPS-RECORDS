@@ -18,11 +18,11 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 .bitches .bitch{position: relative; padding: 20px 0 30px 260px; height: 270px;}
 .bitches .bitch img{position: absolute; top:0; left: 0;}
 
-.bitches h2{font-size: 36px; line-height: 36px;  padding: 50px 0 30px; text-transform: uppercase; text-shadow: 0px 2px 0px #001}
+.bitches h2{font-size: 36px; line-height: 36px;  padding: 50px 0 30px; text-shadow: 0px 2px 0px #001}
 .bitches h2 a{color: #fff; text-decoration: underline;}
 .bitches h2 a:hover{text-decoration: none;}
 
-.bitches .bitch h3 {font-size: 54px; text-transform: uppercase; padding: 10px 0; text-shadow: 0px 2px 0px #001}
+.bitches .bitch h3 {font-size: 54px; padding: 10px 0; text-shadow: 0px 2px 0px #001}
 .bitches .bitch .problems a{display: block; background: #fff; color: #000; padding: 6px 10px; text-decoration: none; margin-bottom: 5px; float: left; clear: both; box-shadow: 0px 2px 0px #c00; -moz-box-shadow: 0px 2px 0px #001}
 .bitches .bitch .problems a:hover{color: #f0f; margin-left: 5px;}
 
@@ -50,28 +50,28 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 
 
 .moar{background: url('data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9JREFUeNpiYGBg8AUIMAAAUgBOUWVeTwAAAABJRU5ErkJggg=='); border-top: 1px solid #000;}
-.moar .constrain{width: 600px; padding: 50px; margin: 0 auto; text-transform: none;}
+.moar .constrain{width: 600px; padding: 50px; margin: 0 auto;}
 .moar h2{font-size: 24px; padding: 0 0 12px;}
-.moar p{color: #fff; padding-bottom: 12px; font-size: 13px; line-height: 18px;}
+.moar p{color: #fff; padding-bottom: 12px; font-size: 15px; line-height: 18px;}
 .moar p a{background: #fff; padding: 0 4px}
 .moar p a:hover{background-color: #ff0;}
 
-.bitches .boring{padding: 30px 30px 12px; background: #fff; color: #000; border: 5px solid #c412b2; border-radius: 2px;}
+.bitches .boring{padding: 30px 30px 12px; background: #000; color: #fff; border: 5px solid #c412b2; border-radius: 2px;}
 
 .bitches .boring h3,
 .bitches .boring h4,
 .bitches .boring p,
 .bitches .boring ul,
-.bitches .boring ol{text-transform: none; font-size: 13px; line-height: 18px; padding-bottom: 12px; color: #444;}
+.bitches .boring ol{font-size: 15px; line-height: 24px; padding-bottom: 12px; color: #fff;}
 
 .bitches .boring p strong,
-.bitches .boring li strong{font-weight: bold; color: #222;}
+.bitches .boring li strong{font-weight: bold; color: #fff;}
 
 .bitches .boring p a,
-.bitches .boring li a{text-decoration: underline; color: #06c;}
+.bitches .boring li a{text-decoration: underline; color: #ff0; padding: 0 2px}
 
 .bitches .boring p a:hover,
-.bitches .boring li a:hover{color: #000; text-decoration: none;}
+.bitches .boring li a:hover{color: #000; text-decoration: none; background: #ff0}
 
 .bitches .boring ol li,
 .bitches .boring ul li{list-style: disc outside; margin-left: 20px; padding-bottom: 5px;}
@@ -85,7 +85,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 
 .bitches .boring h4{font-weight: bold;}
 
-.bitches .boring hr{clear: both; margin: 10px 0 30px; height: 0px; background: #fff; border:none; border-top: 1px solid #ccc; }
+.bitches .boring hr{clear: both; margin: 10px 0 30px; height: 0px; background: #000; border:none; border-top: 1px solid #333; }
 
 
 .bitches .boring_intro{background: #000;}
