@@ -62,7 +62,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 .bitches .boring h4,
 .bitches .boring p,
 .bitches .boring ul,
-.bitches .boring ol{font-size: 15px; line-height: 24px; padding-bottom: 12px; color: #fff;}
+.bitches .boring ol{font-size: 18px; line-height: 24px; padding-bottom: 12px; color: #fff; letter-spacing: -1px}
 
 .bitches .boring p strong,
 .bitches .boring li strong{font-weight: bold; color: #fff;}
