@@ -12,7 +12,7 @@
 	<div class="penises">
 		<h1>ALL CAPS RECORDS BITCHES</h1>
 		<div class="durr">
-			<p>Small, mobile and fiercely independent digital publishing for loud tunes.</p>
+			<p>A small, mobile and fiercely independent digital label for bass music.</p>
 			<p class="fuckoff">No punches pulled and few fucks given.</p>
 		</div>	
 	</div>

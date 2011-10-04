@@ -12,10 +12,11 @@
 	<div class="penises">
 		<h1>ALL CAPS RECORDS BITCHES</h1>
 		<div class="durr">
-			<p>Bass music, Chiptunes, electro, video game tunes and various *step coming soon.</p>
-			<p class="fuckoff"><a href="http://allcapsrecords.bandcamp.com/" target="_blank">Buy stuff at bandcamp</a></p>
+			<p>A small, mobile and fiercely independent digital label for bass music.</p>
+			<p class="fuckoff">No punches pulled and few fucks given.</p>
 		</div>	
 	</div>
+
 
 <!--fuckyou--></div>
 
