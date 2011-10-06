@@ -56,13 +56,13 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 .moar p a{background: #fff; padding: 0 4px}
 .moar p a:hover{background-color: #ff0;}
 
-.bitches .boring{padding: 30px 30px 12px; background: #000; color: #fff; border: 5px solid #c412b2; border-radius: 2px;}
+.bitches .boring{padding: 30px 30px 12px; background: #000; color: #fff; border: 5px solid #72266b; border-radius: 2px; }
 
 .bitches .boring h3,
 .bitches .boring h4,
 .bitches .boring p,
 .bitches .boring ul,
-.bitches .boring ol{font-size: 18px; line-height: 24px; padding-bottom: 12px; color: #fff; letter-spacing: -1px}
+.bitches .boring ol{font-size: 18px; line-height: 24px; padding-bottom: 12px; color: #fff; letter-spacing: -0.5px}
 
 .bitches .boring p strong,
 .bitches .boring li strong{font-weight: bold; color: #fff;}

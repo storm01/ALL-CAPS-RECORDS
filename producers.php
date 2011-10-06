@@ -33,7 +33,7 @@
 	</div>
 
 	<div class="boring">
-		<p>Here's a bunch of stuff you need to know if you're planning to release tracks via ALL CAPS. We do not 'sign' artists and contracts are on a release-by-release basis.</p>
+		<p>We do not 'sign' artists and contracts are on a release-by-release basis. Here's how agreements work...</p>
 	</div>
 
 	<h2 id="happs">When you release with us:</h2>
@@ -43,14 +43,11 @@
 		
 		<ol>
 			<li>Your final master .wav file(s)</li>
-			<li>Artwork, if you're supplying it.</li>
 			<li>Lyrics or notes  in plain text format</li>
 			<li>A signed copy of our release agreement</li>
 			<li>Any extras we've agreed to release such as synths, stems, digital artwork etc.</li>
-			<li>A guarantee that all the content you're provided is yours and you own the right to release it. For instance, if you use an audio sample from someone else's track, you have approval for it.</li>
+			<li>A guarantee that all the content you're provided is yours and you own the right to release it.</li>
 		</ol>
-		
-		<p>The above applies to both remixes and originals.</p>
 		
 	</div>		
 	
@@ -58,16 +55,18 @@
 
 	<div class="boring">
 	
-		<p>The 'release agreement' is a contract. It's a bit of paper that essentially outlines the following:</p>
+		<p>The 'release agreement' is a contract. It outlines the following:</p>
 	
 		<h4>Stuff we can do:</h4>
 		
 		<ul>
 			<li>We have exclusive right to distribute the track, digitally and physically.</li>
 			<li>We have exclusive right to sell the release via whatever means we want. Examples include: compilation albums, combined digital downloads, physical merchandise, mixes.</li>
-			<li>Use your name/logo/picture as an 'ALL CAPS Artist' on our website, Facebook, Soundcloud printed material, etc.</li>
+			<li>Use your name/logo/picture as an ALL CAPS Artist on our website, Facebook, Soundcloud printed material, etc.</li>
 		</ul>
 		
+		<hr>	
+					
 		<h4>Stuff we can't do:</h4>
 		
 		<ul>
@@ -78,14 +77,15 @@
 		
 		<h4>Stuff you can do:</h4>
 		<ul>
-			<li>You can preview the track anywhere you want online (youtube, soundcloud, etc) without allowing downloads, after it's approved for release by ALL CAPS.</li>		
+			<li>Preview the track anywhere you want online (youtube, soundcloud, etc) in low quality, non-downloadable format.</li>		
 		</ul>		
 
+		<hr>
 
 		<h4>Stuff you can't do:</h4>
 		
 		<ul>
-			<li>Release or sell anything to do with the release via another label, Bandcamp, Beatport, or similar. All money goes through us!</li>
+			<li>Re-release or sell anything to do with the release via any other channel (i.e. other label, Bandcamp, Beatport, etc).</li>
 			<li>Give the track away for free anywhere, unless we say it's okay.</li>
 		</ul>
 		
@@ -105,13 +105,10 @@
 	<h2 id="upfront">Money - getting paid up front:</h2>
 	
 	<div class="boring">
-				
-		<h4>If you are being paid up front (common for remixes and singles):</h4>
-		
+					
 		<ul>
 			<li>We agree on a fee for the release.</li>
-			<li>We pay 50% up front and 50% on receiving an acceptable master.</li>
-			<li>From that point on we can do pretty much anything we want with the release.</li>
+			<li>We pay 50% up front, then 50% on receiving an acceptable master.</li>
 		</ul>
 	
 	</div>
@@ -119,21 +116,16 @@
 	<h2 id="shares">Money - Sharing profits:</h2>
 	
 	<div class="boring">
-	
-		<h4>If you are taking a share of profits (common for full EPs/LPs):</h4>
-		
-		<p>This is slightly more complex. Put simply, we cover all the associated costs to do with the release.</p>
-		
-		<p>Some examples of costs include:</p>
+			
+		<p><strong>After</strong> all release-related expenses are paid for, everyone gets their cut of profit. Example expenses include:</p>
 
 		<ul>
 			<li>Paying other artists for remixes</li>
+			<li>Any cut distributors take from individual sales</li>
 			<li>Mastering costs</li>
-			<li>Printing costs, if it's physical</li>
-			<li>Paying off mafia bosses, corrupt governments, etc (this is a joke).</li>
-		</ul>
-		
-		<p><strong>After</strong> all release-related expenses are paid for, everyone gets their cut of profit.</p>
+			<li>Printing / pressing costs (for physical releases)</li>
+			<li>Paying off mafia bosses and corrupt governments, cocaine, hookers, etc.</li>
+		</ul>		
 		
 		<hr>
 		
@@ -152,6 +144,8 @@
 		<h4>If it's a remix of one of your tracks and we're NOT paying the remixer up front:</h4>
 		<p>We take 30%, you take 35% and the remixer takes 35%</p>
 		<p><img src="design/images/producers/30-35-remix.jpg" alt="30-35-remix"></p>	
+		
+		<hr>
 	
 	</div>
 	
@@ -176,6 +170,8 @@
 		<h4>Bandcamp:</h4>
 		
 		<p>We may also opt to offer paid downloads at <a href="http://bandcamp.com/">bandcamp.com</a>.</p>	
+		
+		<p>We may change how and where we release at any time.</p>
 
 	</div>
 		
