@@ -24,7 +24,7 @@
 
 	<div class="release">
 	
-		<a class="cover" href="http://allcapsrecords.bandcamp.com/track/four-litres-of-hope"><img src="design/images/releases/001.jpg" alt="001"></a>
+		<div class="cover"><img src="design/images/releases/soon.jpg" alt="003"></div>
 
 		<h2><strong>ALLCAPS001:</strong> Four Litres of Hope </h2>
 		

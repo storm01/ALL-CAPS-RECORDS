@@ -1,21 +1,38 @@
 .releases{width: 900px; margin: 0 auto;}
-.releases .release{position: relative;}
-.releases .release .cover{position: absolute; top:60px; left: 0;}
-.releases .release .cover img{
+.releases .release{position: relative; border-bottom: 10px solid #6a2350; padding: 30px 0 0; min-height: 250px}
+.releases .release .cover{position: absolute; top:90px; left: 0;}
+.releases .release .cover img{width: 150px;
 -moz-transform:rotate(1deg);
 -webkit-transform:rotate(1deg);
 -ms-transform:rotate(1deg);
 filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 border: 10px solid #000; background: #000;
 }
+.releases .release .cover:hover img{border-color: #f0f;}
 
-.releases .release .stuff{padding-left: 310px;}
+.releases .release .stuff{padding: 20px 0 20px 200px; min-height: 140px;}
 .releases .release h2{padding: 0 0 10px; font-size: 36px;}
 
 .releases .release embed{border: 1px solid #000; margin: 10px 0}
-.releases .release p{font-size: 18px; padding-bottom: 10px;}
-.releases .release a{color: #fff; text-decoration: underline;}
+.releases .release p{font-size: 18px; padding-bottom: 10px; color: #a38498}
+.releases .release a{color: #fff; text-decoration: none;}
 .releases .release a:hover{text-decoration: none;}
 
-.releases .floh{padding: 22px; padding-right: 30px; padding-left: 190px; background: #000; position: relative; margin: 20px 0 0; font-size: 25px; line-height: 30px;}
-.releases .floh img{width: 150px; position: absolute; top:10px; left: 10px;}
+
+.releases .release p.massiv {font-size: 32px;}
+.releases .release p.massiv a{display: block; color: #f0f; padding: 0 0; text-decoration: underline;}
+.releases .release .otherz a{display: block; font-size: 18px; color: #a45e88; padding: 5px 0;}
+
+.releases .release p.massiv a:hover,
+.releases .release .otherz a:hover{color: #fff;}
+
+.releases .release p a .at{font-family: Helvetica, sans-serif;}
+
+.releases .floh{padding: 10px 50px 10px 110px; background: #000; position: relative; margin: 20px 0 0; font-size: 18px; line-height: 30px; color: #777; border: 1px solid #333;}
+.releases .floh a{color: #999}
+.releases .floh a:hover{color: #fff}
+.releases .floh img{width: 80px; position: absolute; top:10px; left: 10px;}
+
+.releases .soundcloud {padding-bottom: 20px;}
+.releases .soundcloud p{font-family: Helvetica, sans-serif; font-size: 11px; opacity: 0.5}
+.releases .soundcloud:hover p{opacity: 1;}
