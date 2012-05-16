@@ -2,8 +2,8 @@
 
 	<div class="m1">
 		<a href="http://allcaps.fm" class="allcaps">ALL_CAPS_RECORDS:_</a>
-		<a class="active" href="releases">releases</a>
-		<a class="" href="artists">artists</a>
+		<a class="active" href="/">releases</a>
+		<!-- <a class="" href="artists">artists</a> -->
 		<a class="" href="about">about / contact</a>
 		<a class="" href="support">support!</a>
 		<a class="" target="_blank" href="http://allcapsrecords.bandcamp.com">buy shit</a>
@@ -71,7 +71,7 @@
 		<a class="cover" href="http://allcapsrecords.bandcamp.com/album/four-litres-of-remix"><img src="design/images/releases/002.jpg" alt="001"></a>
 		<h2><strong>ALLCAPS002:</strong> Four Litres of Remix</h2>
 		<div class="stuff">	
-			<p class="massiv"><a href="http://allcapsrecords.bandcamp.com/album/four-litres-of-remix" target="_blank">Listen / FREE / buy <span class="at">@</span> Bandcamp</a></p>
+			<p class="massiv"><a href="http://allcapsrecords.bandcamp.com/album/four-litres-of-remix" target="_blank">FREE_DOWNLOAD_-_PAY_WHATEVER <span class="bandcamp">at freakin Bandcamp</a></p>
 			<p>Feat badasses Kanji Kinetic, rrritalin, Dysphemic and Ritalin.</p>
 			<p class="otherz">
 				<a href="http://www.beatport.com/release/four-litres-of-remix/893632" target="_blank">Buy <span class="at">@</span> Beatport</a>
@@ -89,7 +89,7 @@
 		<a class="cover" href="http://allcapsrecords.bandcamp.com/track/four-litres-of-hope"><img src="design/images/releases/001.jpg" alt="001"></a>
 		<h2><strong>ALLCAPS001:</strong> Four Litres of Hope </h2>
 		<div class="stuff">
-			<p class="massiv"><a href="http://allcapsrecords.bandcamp.com/track/four-litres-of-hope" target="_blank">Listen / FREE / buy <span class="at">@</span> Bandcamp</a></p>
+			<p class="massiv"><a href="http://allcapsrecords.bandcamp.com/track/four-litres-of-hope" target="_blank">FREE_DOWNLOAD_-_PAY_WHATEVER <span class="bandcamp">at freakin Bandcamp</a></p>
 			<p class="otherz">
 				<a href="http://www.beatport.com/release/four-litres-of-hope/400702" target="_blank">Buy <span class="at">@</span> Beatport</a>
 				<a href="http://www.amazon.com/Four-Litres-of-Hope/dp/B007982KF4" target="_blank">Buy <span class="at">@</span> Amazon</a>
