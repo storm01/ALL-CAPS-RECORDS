@@ -46,19 +46,16 @@
 
 
 	<div class="release">
-		<div class="cover"><img src="design/images/releases/soon.jpg" alt="003"></div>
+		<div class="cover"><a href="http://allcapsrecords.bandcamp.com/album/mansabadman" target="_blank"><img src="design/images/releases/003.jpg" alt="003"></a></div>
 		<h2><strong>ALLCAPS003:</strong> Raptus - Mansabadman</h2>
 		<div class="stuff">	
-			<p class="massiv">Coming soon</p>
-			<p>Huge 100bpm bass from UK's Raptus.</p>
-			<p>Releasing 19th May, 2012</p>
-<!--
+			<p class="massiv"><a href="http://allcapsrecords.bandcamp.com/album/mansabadman" target="_blank">FREE_DOWNLOAD_-_PAY_WHATEVER <span class="bandcamp">at freakin Bandcamp</a></p>
+			<p>Feat remix by the delicious Mister Black.</p>
 			<p class="otherz">
-				<a href="http://www.beatport.com/release/four-litres-of-remix/893632" target="_blank">Buy <span class="at">@</span> Beatport</a>
-				<a href="http://www.amazon.com/gp/product/B007SKI4R6/ref=dm_sp_alb" target="_blank">Buy <span class="at">@</span> Amazon</a>
-				<a href="http://www.junodownload.com/products/four-litres-of-remix/1942936-02/" target="_blank">Buy <span class="at">@</span> Juno</a>
+				Coming soon <span class="at">@</span> Beatport<br>
+				Coming soon <span class="at">@</span> Amazon<br>
+				Coming soon <span class="at">@</span> Juno<br>
 			</p>
--->
 			<div class="soundcloud">
 				<iframe width="100%" height="300" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1773628&show_artwork=true"></iframe>
 			</div>
