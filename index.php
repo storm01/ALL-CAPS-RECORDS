@@ -24,19 +24,16 @@
 <div class="releases">
 
 	<div class="release">
-		<div class="cover"><img src="design/images/releases/soon.jpg" alt="003"></div>
+		<div class="cover"><a href="http://allcapsrecords.bandcamp.com/album/skraeckoedlan" target="_blank"><img src="design/images/releases/004.jpg" alt="004"></a></div>
 		<h2><strong>ALLCAPS004:</strong> Blood Eagle - Skraeckoedlan</h2>
 		<div class="stuff">	
-			<p class="massiv">Coming soon</p>
-			<p>With fat remixes from ajorbit and meauxgreen. hot piss.</p>
-			<p>Releasing 26th May, 2012.</p>
-<!--
+			<p class="massiv"><a href="http://allcapsrecords.bandcamp.com/album/skraeckoedlan" target="_blank">FREE_DOWNLOAD_-_PAY_WHATEVER <span class="bandcamp">at freakin Bandcamp</a></p>
+			<p>With fat remixes from Meaux green, 3dNOW, Dope Arcade and AJ ORbit. Go punch a bear.</p>
+			<p>Released 26th May, 2012.</p>
 			<p class="otherz">
-				<a href="http://www.beatport.com/release/four-litres-of-remix/893632" target="_blank">Buy <span class="at">@</span> Beatport</a>
-				<a href="http://www.amazon.com/gp/product/B007SKI4R6/ref=dm_sp_alb" target="_blank">Buy <span class="at">@</span> Amazon</a>
-				<a href="http://www.junodownload.com/products/four-litres-of-remix/1942936-02/" target="_blank">Buy <span class="at">@</span> Juno</a>
+				<a href="http://www.beatport.com/release/skraeckoedlan/935204" target="_blank">Buy <span class="at">@</span> Beatport</a>
+				<a href="http://www.junodownload.com/products/skraeckoedlan/1995890-02" target="_blank">Buy <span class="at">@</span> Juno</a>
 			</p>
--->
 			<div class="soundcloud">
 				<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F26176728&show_artwork=true"></iframe>
 			</div>
